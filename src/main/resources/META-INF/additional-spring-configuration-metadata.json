@@ -1,0 +1,7 @@
+{"properties": [
+  {
+    "name": "url-shortener.base-url",
+    "type": "java.lang.String",
+    "description": "Base URL of URL Shortener service, e.g. http://localhost:9000"
+  }
+]}
